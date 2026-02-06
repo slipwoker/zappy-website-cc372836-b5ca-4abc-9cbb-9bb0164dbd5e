@@ -1,0 +1,57 @@
+# א.א עבודות קידוחים ופיתוח — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### Home
+https://-cc372836.zappy5.app
+
+### Services
+https://-cc372836.zappy5.app/services
+
+### Case Studies
+https://-cc372836.zappy5.app/case-studies
+
+### Contact
+https://-cc372836.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cc372836.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cc372836.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cc372836.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.א עבודות קידוחים ופיתוח
+א.א עבודות קידוחים ופיתוח is a business in the General industry.
+
+## Target Audience
+- מנהלי פרויקטים בבנייה
+- יזמי נדל"ן
+- מתכנני ערים ורשויות מקומיות
+- חברות הנדסה
+- מפתחים חקלאיים
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-cc372836.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-cc372836.zappy5.app/robots.txt
